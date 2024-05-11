@@ -1,6 +1,6 @@
 My personal-mpv-configuration file for the mpv media player in conjuction with the scripts and shader upscalers I use for watching anime.
 
-Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core | Radeon RX6950XT OC @ 2700Mhz-2800Mhz Core / @ 2412Mhz Memory Fast Timings \ UV @ 1162mV | Corsair Vengeance 32GB OC @ 3600MhzCL19
+Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core | Radeon RX6950XT OC @ 2700Mhz-2800Mhz Core / @ 2412Mhz Memory Fast Timings \ UV @ 1162mV | Corsair Vengeance 32GB OC @ 3600MhzCL19 1.4V
 
 Colorspace management settings optimized for my display: Corsair Xeneon 32QHD165
 
