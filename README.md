@@ -7,3 +7,4 @@ Colorspace management settings optimized for my display: Corsair Xeneon 32QHD165
 This configuration is being used with the latest mpv-git release and with SmoothVideoPlayer4 interpolation @119.880fps.
 
 Below is a screenshot of my personal SVP4 settings I use for maximum fluidity with minimal contouring:
+<img width="448" alt="Sl5BOAE" src="https://github.com/Auzatte/personal-mpv-configuration/assets/169538073/35438541-7523-403d-bd83-dd3d97d3ec66">
