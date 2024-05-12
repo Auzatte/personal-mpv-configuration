@@ -4,6 +4,6 @@ Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core | Radeon RX6950XT O
 
 Colorspace management settings optimized for my display: Corsair Xeneon 32QHD165
 
-This configuration is being used with the latest mpv-git release and with SmoothVideoPlayer4 interpolation @71.928fps.
+This configuration is being used with the latest mpv-git release and with SmoothVideoPlayer4 interpolation @119.880fps.
 
 Below is a screenshot of my personal SVP4 settings I use for maximum fluidity with minimal contouring:
