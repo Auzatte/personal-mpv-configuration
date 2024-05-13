@@ -2,7 +2,7 @@ My personal-mpv-configuration file for the mpv media player in conjuction with t
 
 Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core | Radeon RX6950XT OC @ 2700Mhz-2800Mhz Core / @ 2412Mhz Memory Fast Timings \ UV @ 1162mV | Corsair Vengeance 32GB OC @ 3600MhzCL19 1.4V
 
-Colorspace management settings optimized for my display: Corsair Xeneon 32QHD165
+Colorspace management settings optimized for my display: Corsair Xeneon 32QHD165 Using VSR for UHD120 on 24H2 Active Signal 2560x1440, 165Hz | Desktop Signal 3840x2160, 120Hz
 
 This configuration is being used with the latest mpv-git release and with SmoothVideoPlayer4 interpolation @119.880fps.
 
