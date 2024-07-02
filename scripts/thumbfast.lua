@@ -45,7 +45,7 @@ local options = {
     audio = false,
 
     -- Enable hardware decoding
-    hwdec = true,
+    hwdec = false,
 
     -- Windows only: use native Windows API to write to pipe (requires LuaJIT)
     direct_io = true,
