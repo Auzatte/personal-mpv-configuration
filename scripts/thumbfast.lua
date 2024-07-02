@@ -48,7 +48,7 @@ local options = {
     hwdec = false,
 
     -- Windows only: use native Windows API to write to pipe (requires LuaJIT)
-    direct_io = true,
+    direct_io = false,
 
     -- Custom path to the mpv executable
     mpv_path = "mpv"
