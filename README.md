@@ -7,4 +7,5 @@ Colorspace management settings optimized for my display and adjusted for my pers
 This configuration is being used with the latest mpv-git release and with SmoothVideoPlayer4 interpolation @5x23.976fps 119.880fps.
 
 Below is a screenshot of my personal SVP4 settings I use for maximum fluidity with minimal contouring:
-<img width="449" alt="SVP4-Settings" src="https://github.com/Auzatte/personal-mpv-configuration/assets/169538073/d2893d68-9edc-4a5a-bac5-79a9f79a391b">
+
+<img width="447" alt="Ip3qUPP" src="https://github.com/Auzatte/personal-mpv-configuration/assets/169538073/d152dfe7-89ac-44fb-b9ad-718d3be214a7">
