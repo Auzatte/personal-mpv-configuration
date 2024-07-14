@@ -8,4 +8,4 @@ This configuration is being used with the latest mpv-git release and with Smooth
 
 Below is a screenshot of my personal SVP4 settings I use for maximum fluidity with minimal contouring:
 
-<img width="447" alt="Ip3qUPP" src="https://github.com/Auzatte/personal-mpv-configuration/assets/169538073/d152dfe7-89ac-44fb-b9ad-718d3be214a7">
+![image](https://github.com/user-attachments/assets/c6e8cd9c-63e3-4905-9bdc-e651a811b60c)
