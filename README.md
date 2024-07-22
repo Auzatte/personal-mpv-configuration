@@ -5,7 +5,3 @@ Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core /\ Radeon RX6950XT 
 Colorspace management settings optimized for my display and adjusted for my personal preferences: Corsair Xeneon 32QHD165 100% AdobeRGB 100% SRGB 98% DCI-P3 /\ Using AMD Enhanced Sync, AMD Freesync, AMD Virtual Super Resolution, and GPU-scaling /\ Display is running at 4k 3840x2160@120Hz /\ btw Windows 11 24H2 supports VSR refresh rate switching
 
 This configuration is being used with the latest mpv-git release and with SmoothVideoPlayer4 interpolation @5x23.976fps 119.880fps.
-
-Below is a screenshot of my personal SVP4 settings I use for maximum fluidity with minimal contouring:
-
-![image](https://github.com/user-attachments/assets/c6e8cd9c-63e3-4905-9bdc-e651a811b60c)
