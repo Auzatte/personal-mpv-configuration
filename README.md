@@ -7,7 +7,7 @@ Colorspace management settings optimized for my display and adjusted for my pers
 
 This configuration is being used with the latest git mpv build from (https://github.com/zhongfly/mpv-winbuild) and SmoothVideoPlayer4 @ X5 Source ~119.880fps.
 
-Here is a screenshot of my SmoothVideoPlayer4 settings that I am using currently for butter smooth realtime motion vector interpolation:
+Here is a screenshot of my SPV4 settings that I am using currently for smooth realtime motion vector interpolation:
 <img width="453" alt="373946153-50ad95de-38a4-464a-96f5-ea69dcdc8ad7" src="https://github.com/user-attachments/assets/5be87b2d-5211-48c2-8ce7-5daf974517ed">
 
 Here is another screenshot of the settings that I am currently using in AMD Software: Adrenaline Edition for mpv.exe:
