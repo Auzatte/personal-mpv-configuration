@@ -16,4 +16,4 @@ Here is another screenshot of the settings that I am currently using in AMD Soft
 Here is one final screenshot of graphics settings of mpv.exe in the Windows 11 settings app, with its registry values:
 <img width="749" alt="372825095-0b2f88da-540f-4bf7-b4ef-be13f8a6a700" src="https://github.com/user-attachments/assets/597ffc58-cae8-4c0e-bdd0-7f0ebc191ed4">
 
-Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: AutoHDREnable=48;VRROptimizeEnable=0;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2;DisableMultiplaneOverlay=1;AutoColorManagementSupported=1;AutoColorManagementEnabled=1;
+Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: SwapEffectUpgradeEnable=257;AutoHDREnable=48;VRROptimizeEnable=0;SwapEffectUpgradeCache=1;GpuPreference=2;DisableMultiplaneOverlay=1;AutoColorManagementSupported=1;AutoColorManagementEnabled=1;
