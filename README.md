@@ -3,7 +3,7 @@ My personal-mpv-configuration file for the mpv media player in conjuction with t
 
 Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core /\ Radeon RX6950XT GFXClk OC @~2833mhz | MEMClk OC @~2400Mhz Fast Timings | Fclk OC @~2150Mhz /\ Corsair Vengeance 32GB OC @1.4V @3600Mhz CL16 tRCD19 tRP19 tRAS37
 
-Colorspace management settings optimized for my display and adjusted for my personal preferences: Calibrated Corsair Xeneon 32QHD165 441cd/m² 100% SRGB | 100% AdobeRGB | 116% DCI-P3 | 84% BT.2020 /\ Using AMD Virtual Super Resolution and GPU-scaling /\ Display is running at 4k 3840x2160@165Hz 8bit+FRC ACM Dithering
+Colorspace management settings optimized for my display and adjusted for my personal preferences: Calibrated Corsair Xeneon 32QHD165 427cd/m² 100% SRGB | 100% AdobeRGB | 116% DCI-P3 | 84% BT.2020 /\ Using AMD Virtual Super Resolution and GPU-scaling /\ Display is running at 4k 3840x2160@165Hz 8bit+FRC ACM Dithering
 
 This configuration is being used with the latest git mpv build from (https://github.com/zhongfly/mpv-winbuild) and SmoothVideoPlayer4 @ X5 Source ~119.880fps.
 
