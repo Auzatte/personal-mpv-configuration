@@ -20,4 +20,4 @@ Here is one final screenshot of graphics settings of mpv.exe in the Windows 11 s
 
 Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: SwapEffectUpgradeEnable=1;AutoHDREnable=48;VRROptimizeEnable=0;GpuPreference=2;AutoColorManagementSupported=1;AutoColorManagementEnabled=1;DisableMultiplaneOverlay=1;
 
-mpv.exe set Override High DPI scaling behavior. Scaling performed by: Application
+mpv.exe set to Disable Fullscreen Optimizations, Run as Administrator, & Override High DPI scaling behavior. Scaling performed by: Application
