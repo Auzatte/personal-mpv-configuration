@@ -18,6 +18,6 @@ Here is another screenshot of the settings that I am currently using in AMD Soft
 Here is one final screenshot of graphics settings of mpv.exe in the Windows 11 settings app, with its registry values:
 ![{720FA2BD-F306-4536-ACEA-BAA71DCCFD5A}](https://github.com/user-attachments/assets/65964d42-0aae-4c2e-b5e2-04c74768c5e2)
 
-Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2;AutoColorManagementSupported=1;AutoColorManagementEnabled=1;
+Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=0;SwapEffectUpgradeCache=0;GpuPreference=2;AutoColorManagementSupported=1;AutoColorManagementEnabled=1;
 
 mpv.exe set to Disable Fullscreen Optimizations, Run as Administrator, & Override High DPI scaling behavior. Scaling performed by: Application
