@@ -1,7 +1,7 @@
 # personal-mpv-configuration
 My personal-mpv-configuration file for the mpv media player in conjuction with the scripts and shader upscalers I use for watching anime.
 
-Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core /\ Radeon RX6950XT GFXClk OC @~2850mhz | MEMClk OC @~2400Mhz Fast Timings | /\ Corsair Vengeance 32GB OC @1.4V @3600Mhz CL16 tRCD19 tRP19 tRAS37
+Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core /\ Radeon RX6950XT GFXClk OC @~2719mhz | MEMClk OC @~2412Mhz Fast Timings | /\ Corsair Vengeance 32GB OC @1.4V @3600Mhz CL16 tRCD19 tRP19 tRAS37
 
 Colorspace management settings optimized for my display and adjusted for my personal preferences: Corsair Xeneon 32QHD165 Calibrated Results: Max Luminance 427cd/m², Color Gamut Coverage Relative to Reference Colorspace | 142.5% SRGB | 122.1% AdobeRGB | 113.6% DCI-P3 | 82.7% BT.2020
 
@@ -18,6 +18,6 @@ Here is another screenshot of the settings that I am currently using in AMD Soft
 Here is one final screenshot of graphics settings of mpv.exe in the Windows 11 settings app, with its registry values:
 ![{720FA2BD-F306-4536-ACEA-BAA71DCCFD5A}](https://github.com/user-attachments/assets/65964d42-0aae-4c2e-b5e2-04c74768c5e2)
 
-Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=0;SwapEffectUpgradeCache=0;GpuPreference=2;AutoColorManagementSupported=1;AutoColorManagementEnabled=1;
+Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2;AutoColorManagementSupported=1;AutoColorManagementEnabled=1;
 
 mpv.exe set to Disable Fullscreen Optimizations, Run as Administrator, & Override High DPI scaling behavior. Scaling performed by: Application
