@@ -10,7 +10,7 @@ Using AMD Virtual Super Resolution and GPU-scaling /\ Display is running at 4k 3
 This configuration is being used with the latest git mpv build from (https://github.com/zhongfly/mpv-winbuild) and SmoothVideoPlayer4 @ X5 Source ~119.880fps.
 
 Here is a screenshot of my SPV4 settings that I am using currently for smooth realtime motion vector interpolation:
-<img width="452" alt="{2E2D5C1E-D46C-423A-9C54-F8E8F925B196}" src="https://github.com/user-attachments/assets/db4ef7d9-a56a-4098-b6e8-86375858eb94">
+<img width="452" alt="{6D879425-254D-4E44-BE94-A80268E2256A}" src="https://github.com/user-attachments/assets/072a206d-c6a2-4b54-ae8b-6e6f641705b4">
 
 Here is another screenshot of the settings that I am currently using in AMD Software: Adrenaline Edition for mpv.exe:
 <img width="1296" alt="373250147-fceff9e0-2ff2-4b60-af30-d8f9f3492dc4" src="https://github.com/user-attachments/assets/7327393a-242b-4572-97ae-40089b3b1af4">
