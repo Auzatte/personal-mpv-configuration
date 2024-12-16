@@ -1,7 +1,7 @@
 # personal-mpv-configuration
 My personal-mpv-configuration file for the mpv media player in conjuction with the scripts and shader upscalers I use for watching anime.
 
-Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core /\ Radeon RX6950XT GFXClk OC @~2750mhz avg | MEMClk OC @~2400Mhz avg Fast Timings Level 1 | FClk @~2150Mhz avg /\ Corsair Vengeance 32GB OC @1.4V @3600Mhz CL16-19-19-37
+Tuned for my personal desktop: Ryzen 5800X3D -30 CO All Core /\ Radeon RX6950XT GFXClk OC Min @~2700Mhz Max @~2800Mhz | MEMClk OC @~2400Mhz FT1 | FClk Min @~2150Mhz Max @~2250Mhz /\ Corsair Vengeance 32GB OC @1.4V @3600Mhz CL16-19-19-37
 
 Colorspace management settings optimized for my display and adjusted for my personal preferences: Corsair Xeneon 32QHD165 Calibrated Results: Max Luminance 427cd/m², Color Gamut Coverage Relative to Reference Colorspace | 142.5% SRGB | 122.1% AdobeRGB | 113.6% DCI-P3 | 82.7% BT.2020
 
