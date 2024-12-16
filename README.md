@@ -16,8 +16,8 @@ Here is another screenshot of the settings that I am currently using in AMD Soft
 <img width="1296" alt="373250147-fceff9e0-2ff2-4b60-af30-d8f9f3492dc4" src="https://github.com/user-attachments/assets/7327393a-242b-4572-97ae-40089b3b1af4">
 
 Here is one final screenshot of graphics settings of mpv.exe in the Windows 11 settings app, with its registry values:
-<img width="624" alt="{130837E1-C9C3-41A3-87A4-42B58DD7DE01}" src="https://github.com/user-attachments/assets/8fdf5b7d-7393-4518-9a8f-f9eb1956a908">
+<img width="628" alt="{9F709C0D-77F3-4E50-9CD3-13196529BB5B}" src="https://github.com/user-attachments/assets/fbce508b-541a-41e5-9d51-28055f1417b2" />
 
-Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2;
+Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=0;SwapEffectUpgradeCache=0;GpuPreference=2;
 
 mpv.exe set to Disable Fullscreen Optimizations, Run as Administrator, & Override High DPI scaling behavior. Scaling performed by: Application
