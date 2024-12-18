@@ -23,7 +23,7 @@ local user_opts = {
     showwindowed = true,            -- show OSC when windowed?
     showfullscreen = true,          -- show OSC when fullscreen?
     noxmas = false,                 -- disable santa hat in December
-    keybindings = true,             -- register keybindings i.e. chapter scrubbing, pinning window
+    keybindings = false,             -- register keybindings i.e. chapter scrubbing, pinning window
     
     -- scaling settings --
     vidscale = false,               -- whether to scale the controller with the video
