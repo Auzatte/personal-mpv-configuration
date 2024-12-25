@@ -1,7 +1,7 @@
 # personal-mpv-configuration
 My personal-mpv-configuration file for the mpv media player in conjuction with the scripts and shader upscalers I use for watching anime.
 
-Tuned for my personal desktop: Ryzen 7 5800X3D -30 All Core Curve Optimizer /\ ASRock Formula OC Radeon RX6950XT GFXClk Min@2594MHz Max@2694MHz SOCClk Min@1800MHz Max@2000MHz MEMClk @~2400MHz /\ Corsair Vengeance LPX 32GB OC 3600MHz CL16
+Tuned for my personal desktop: Ryzen 7 5800X3D -30 All Core Curve Optimizer /\ ASRock Formula OC Radeon RX6950XT /\ Corsair Vengeance LPX 32GB 3600MHz CL16
 
 Colorspace management settings optimized for my display and adjusted for my personal preferences: Corsair Xeneon 32QHD165 Calibrated Results: Max Luminance 427cd/m², Color Gamut Coverage Relative to Reference Colorspace | 142.5% SRGB | 122.1% AdobeRGB | 113.6% DCI-P3 | 82.7% BT.2020
 
@@ -15,9 +15,4 @@ Here is a screenshot of my SPV4 settings that I am using currently for smooth re
 Here is another screenshot of the settings that I am currently using in AMD Software: Adrenaline Edition for mpv.exe:
 <img width="1296" alt="373250147-fceff9e0-2ff2-4b60-af30-d8f9f3492dc4" src="https://github.com/user-attachments/assets/7327393a-242b-4572-97ae-40089b3b1af4">
 
-Here is one final screenshot of graphics settings of mpv.exe in the Windows 11 settings app, with its registry values:
-<img width="628" alt="{9F709C0D-77F3-4E50-9CD3-13196529BB5B}" src="https://github.com/user-attachments/assets/fbce508b-541a-41e5-9d51-28055f1417b2" />
-
-Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=0;SwapEffectUpgradeCache=0;GpuPreference=2;
-
-mpv.exe set to Disable Fullscreen Optimizations, Run as Administrator, & Override High DPI scaling behavior. Scaling performed by: Application
+Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2;
