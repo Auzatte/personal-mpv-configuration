@@ -5,7 +5,7 @@ Tuned for my personal desktop: Ryzen 7 5800X3D -30 All Core Curve Optimizer /\ A
 
 Colorspace management settings optimized for my display and adjusted for my personal preferences: Corsair Xeneon 32QHD165 Calibrated Results: Max Luminance 427cd/m², Color Gamut Coverage Relative to Reference Colorspace | 142.5% SRGB | 122.1% AdobeRGB | 113.6% DCI-P3 | 82.7% BT.2020
 
-Using AMD Virtual Super Resolution and GPU-scaling /\ Display is running at 4k 3840x2160@165Hz 8bit+FRC ACM Dithering for 10bit using HDR400
+Using AMD Virtual Super Resolution and GPU-scaling /\ Display is running at 4k 3840x2160@165Hz 8bit+FRC ACM Dithering for 10bit
 
 This configuration is being used with the latest git mpv build from (https://github.com/zhongfly/mpv-winbuild) and SmoothVideoPlayer4 @ X5 Source ~119.880fps.
 
@@ -13,6 +13,6 @@ Here is a screenshot of my SPV4 settings that I am using currently for smooth re
 <img width="452" alt="{6D879425-254D-4E44-BE94-A80268E2256A}" src="https://github.com/user-attachments/assets/072a206d-c6a2-4b54-ae8b-6e6f641705b4">
 
 Here is another screenshot of the settings that I am currently using in AMD Software: Adrenaline Edition for mpv.exe:
-<img width="1446" alt="{F674EA9E-4F14-441A-B717-CF2E6A5020AA}" src="https://github.com/user-attachments/assets/e96e6d48-9c57-4fb9-a73c-bc6f2362c3e9" />
+<img width="1440" alt="{93464101-DE58-4082-8858-5CA9DC7D85C7}" src="https://github.com/user-attachments/assets/4ecda37a-f19f-4c23-9228-756d73d2a620" />
 
 Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2;
