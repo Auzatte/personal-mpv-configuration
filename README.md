@@ -5,7 +5,7 @@ Tuned for my personal desktop: Ryzen 7 5800X3D -30 All Core Curve Optimizer /\ A
 
 Colorspace management settings optimized for my display and adjusted for my personal preferences: Corsair Xeneon 32QHD165 Calibrated Results: Max Luminance 426cd/m², Color Gamut Coverage Relative to Reference Colorspace | 142.5% SRGB | 122.1% AdobeRGB | 113.6% DCI-P3 | 82.7% BT.2020
 
-Using AMD Virtual Super Resolution and GPU-scaling /\ Display is running at 4k 3840x2160@165Hz HDR 8bit+FRC ACM Dithering for 10bit
+Using AMD Virtual Super Resolution and GPU-scaling /\ Display is running at 4k 3840x2160@165Hz HDR400 8bit+FRC ACM Dithering for 10bit
 
 This configuration is being used with the latest git mpv build from (https://github.com/zhongfly/mpv-winbuild) and SmoothVideoPlayer4 @ X5 Source ~119.880fps.
 
