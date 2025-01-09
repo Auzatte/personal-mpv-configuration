@@ -3,7 +3,7 @@ My personal-mpv-configuration file for the mpv media player in conjuction with t
 
 Tuned for my personal desktop: Ryzen 7 5800X3D -30 All Core Curve Optimizer /\ ASRock Formula OC Radeon RX6950XT /\ Corsair Vengeance LPX 32GB 3600MHz CL16
 
-Colorspace management settings optimized for my display and adjusted for my personal preferences: Corsair Xeneon 32QHD165 Calibrated Results: Color Gamut Coverage Relative to Reference Colorspace | 142.5% SRGB | 122.1% AdobeRGB | 113.6% DCI-P3 | 82.7% BT.2020
+Colorspace management settings optimized for my display and adjusted for my personal preferences: Corsair Xeneon 32QHD165 100% SRGB, 100% AdobeRGB, 98% DCI-P3, 82% BT.2020
 
 Using AMD Virtual Super Resolution and GPU-scaling /\ Display is running at 4k 3840x2160@165Hz HDR10 8bit+FRC ACM Dithering for 10bit
 
