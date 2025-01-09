@@ -13,6 +13,6 @@ Here is a screenshot of my SPV4 settings that I am using currently for smooth re
 <img width="452" alt="{6D879425-254D-4E44-BE94-A80268E2256A}" src="https://github.com/user-attachments/assets/072a206d-c6a2-4b54-ae8b-6e6f641705b4">
 
 Here is another screenshot of the settings that I am currently using in AMD Software: Adrenaline Edition for mpv.exe:
-<img width="1446" alt="{2B852AAE-D57F-413F-AD47-067FC5CF3EBE}" src="https://github.com/user-attachments/assets/52855cad-fa40-4f1b-8f05-e15d72ac8a9d" />
+<img width="1445" alt="{FADA891F-805F-47DF-AAE5-540C3BF5018E}" src="https://github.com/user-attachments/assets/ab79b26b-f3e9-411e-befa-8161cd07b3c9" />
 
 Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences | Value Name: C:\Users\Admin\Documents\mpv\mpv.exe Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2;
