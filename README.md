@@ -5,7 +5,7 @@ Tuned for my personal desktop: Ryzen 7 5800X3D -30 All Core CO /\ XFX Mecury Rad
 
 Colorspace management settings optimized for my display and adjusted for my personal preferences: Xiaomi G Pro 27 |100% SRGB, 100% AdobeRGB, 99% DCI-P3, 86% BT.2020| /\ SDR Peak ~1037nits, HDR Peak ~1500nits
 
-Display signal mode is running at 4K 3840x2160@180Hz 10bit HDR Desktop Mode: 4K 3840x2160@120Hz 10 bit HDR
+Display is running at 4K 3840x2160@180Hz 10bit HDR
 
 This configuration is being used with the latest git mpv build from (https://github.com/zhongfly/mpv-winbuild) and SmoothVideoPlayer4 @ X5 Source ~119.880fps.
 
