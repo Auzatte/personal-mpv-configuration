@@ -14,3 +14,5 @@ Here is a screenshot of my SPV4 settings that I am using currently for smooth re
 
 Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
+
+mpv.exe Disable Fullscreen Optimizations: Checked On & Override High DPI Scaling Behavior: Set to Application
