@@ -13,4 +13,4 @@ Here is a screenshot of my SPV4 settings that I am using currently for smooth re
 <img width="453" alt="{C8837F82-85E0-4E6F-9330-91D8896DA3D0}" src="https://github.com/user-attachments/assets/fbde69b5-e810-4515-a5ea-170170e388ac" />
 
 Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
-Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
+Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
