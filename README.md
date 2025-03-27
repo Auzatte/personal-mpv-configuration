@@ -1,2 +1,50 @@
-# personal-mpv-configuration
-My own personal mpv configuration uploaded as a GitHub repository that contains the settings and scripts I use when watching Anime.
+# Tuned for my personal desktop (Desktop Battlestation Specifications)
+
+Processor: AMD Ryzen 7 5800X3D 4.5GHz Boost with -30 Curve Optimizer applied All Core
+
+Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX | GFXClk Min @2615MHz GFXClk Max @3100MHz | MEMClk Fast Timings @2664MHz (@2650MHz due to -14MHz offset) | UV @-25Mv
+
+Motherboard: ASUS ROG STRIX B550-F (Heavily Tweaked BIOS Settings)
+
+RAM: G.SKILL Ripjaws 32GB (2x16GB) 4000MHz CL18 | Infinity Fabric: 2000MHz
+
+Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/s
+
+# Monitor Specifications
+
+Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 100% AdobeRGB, 99% DCI-P3, 86% BT.2020 | SDR Peak ~1037nits, HDR Peak ~1500nits | 1152 Local Dimming Zones
+
+Display Mode: 4K 3840x2160@120Hz 10bit SDR | VRR+VSR Enabled
+
+Signal Mode: 4K 3840x2160@180Hz 10bit SDR | VRR+VSR Enabled
+
+# General Information
+
+This configuration is being used with the latest git mpv build provided by Zhongfly's repoistory (https://github.com/zhongfly/mpv-winbuild) & the latest stable release of SmoothVideoProject (https://www.svp-team.com/).
+
+# General Settings
+**AMD Radeon Software Settings**
+
+<img width="1451" alt="{C0B678A8-A870-47AB-99AB-94111D348700}" src="https://github.com/user-attachments/assets/c5bc91cb-ec4b-4c12-93d3-ea6926383c2f" />
+
+**SmoothVideoPlayer4 Settings**
+
+<img width="527" alt="{0564615A-EE71-4F79-9697-17E269D6EA8E}" src="https://github.com/user-attachments/assets/ec6d0314-b106-4e72-bbfb-9a4ef6864c78" />
+
+**Windows Graphics Settings**
+
+<img width="643" alt="{59D49E9C-938F-4B81-ACB1-15414B9305A6}" src="https://github.com/user-attachments/assets/1bfea6e3-11b8-44d6-ac73-e0adf0e1e082" />
+
+Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
+
+Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
+
+# Note
+I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
+RIFE AI can and will either completely destroy the real original frames or make original frames completely vanish when used.
+
+At least with SVP4's interpolation it will keep all the original frames untouched by add its own calculated interpolated frames onto it.
+The most visible artifacting to be seen with my current setup usually appears on lower quality encodes rather than higher quality encodes.
+Usually in the form of either a "Halo Soap Opera Motion Effect" around characters in slower motion against a very detailed background or "Wavy Distorted Lines" around characters feet during motion on stairs.
+
+Also this repository can sometimes be purged by myself sometimes just to freeup commit history that sometimes clutters it.
