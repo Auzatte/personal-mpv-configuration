@@ -2,8 +2,6 @@ This repository can sometimes be purged by myself sometimes just to freeup commi
 All the files provided in here are just so I can show what I am currently using. I did not make any of the fonts, scripts, etc. myself other than the mpv.conf file itself which was informed from gathering information from the world wide web and the mpv wiki page.
 Credit for those files that were not created by me goes completely towards their respective owners and creators.
 
-The mpv media player build that I use with this are provided by Zhongfly's GitHub repository located here: https://github.com/zhongfly/mpv-winbuild
-
 # Tuned for my personal desktop (Desktop Battlestation Specifications)
 
 Processor: AMD Ryzen 7 5800X3D 4.5GHz Boost with -30 Curve Optimizer applied All Core
@@ -18,7 +16,7 @@ Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/
 
 # Monitor Specifications
 
-Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 100% AdobeRGB, 99% DCI-P3, 86% BT.2020 | SDR Peak ~1037nits, HDR Peak ~1500nits| 1152 Local Dimming Zones set to "High" | Setting HDR "On" setting instead of HDR "Auto" within the Monitor achieves Peak of ~1500nits while still running in SDR in the OS. Only downsides is it locks it to the default color temperature and the response time is locked to the default standard option. Upsides it does not affect color reproduction accuracy and in fact further improves upon the monitor's contrast ratio allowing for more vairance in the luminance peaks and luminance minimums.
+Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 100% AdobeRGB, 99% DCI-P3, 86% BT.2020 | SDR Peak ~1037nits, HDR Peak ~1500nits| 1152 Local Dimming Zones set to "High" | Setting HDR "On"  instead of HDR "Auto" within the Monitor achieves Peak of ~1500nits while still running in SDR in the OS. Only downsides is it locks it to the default color temperature and the response time is locked to the default standard option. Upsides it does not affect color reproduction accuracy and in fact further improves upon the monitor's contrast ratio allowing for more vairance in the luminance peaks and luminance minimums.
 
 Display Mode: 4K 3840x2160@120Hz 10bit SDR | VRR+VSR Enabled
 
