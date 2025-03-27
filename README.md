@@ -1,3 +1,9 @@
+This repository can sometimes be purged by myself sometimes just to freeup commit history that sometimes clutters it, but it will be remade with the same name right after when this does occur so it should not break any link to it that could've possibly have been made to it as long as it is not during the time before recreation.
+All the files provided in here are just so I can show what I am currently using. I did not make any of the fonts, scripts, etc. myself other than the mpv.conf file itself which was informed from gathering information from the world wide web and the mpv wiki page.
+Credit for those files that were not created by me goes completely towards their respective owners and creators.
+
+The mpv media player build that I use with this are provided by Zhongfly's GitHub repository located here: https://github.com/zhongfly/mpv-winbuild
+
 # Tuned for my personal desktop (Desktop Battlestation Specifications)
 
 Processor: AMD Ryzen 7 5800X3D 4.5GHz Boost with -30 Curve Optimizer applied All Core
@@ -47,4 +53,5 @@ At least with SVP4's interpolation it will keep all the original frames untouche
 The most visible artifacting to be seen with my current setup usually appears on lower quality encodes rather than higher quality encodes.
 Usually in the form of either a "Halo Soap Opera Motion Effect" around characters in slower motion against a very detailed background or "Wavy Distorted Lines" around characters feet during motion on stairs.
 
-Also this repository can sometimes be purged by myself sometimes just to freeup commit history that sometimes clutters it.
+Finally, I am always open to people's suggestions to further enhance the quality and performance of my mpv configuration file especially if they understand and know more about the subject than I currently do.
+Also, I welcome any mpv media player script recommendations as well if you think it'll enhance my general use of the player itself.
