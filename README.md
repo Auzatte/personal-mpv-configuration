@@ -6,7 +6,7 @@ Credit for those files that were not created by me goes completely towards their
 
 Processor: AMD Ryzen 7 5800X3D 4.5GHz Boost with -30 Curve Optimizer applied All Core
 
-Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX | GFXClk Min @2615MHz GFXClk Max @3100MHz | MEMClk Fast Timings @2664MHz (@2650MHz due to -14MHz offset) | UV @-25Mv
+Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX (AQUA Liquid BIOS Flashed) | GFXClk Min @2935MHz GFXClk Max @3300MHz | MEMClk Fast Timings @2664MHz (@2650MHz due to -14MHz offset)
 
 Motherboard: ASUS ROG STRIX B550-F (Heavily Tweaked BIOS Settings)
 
@@ -33,7 +33,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 **SmoothVideoPlayer4 Settings**
 
-<img width="527" alt="{0564615A-EE71-4F79-9697-17E269D6EA8E}" src="https://github.com/user-attachments/assets/ec6d0314-b106-4e72-bbfb-9a4ef6864c78" />
+<img width="528" alt="{8061D6F2-07F6-4536-B8BD-AAE8DCD87831}" src="https://github.com/user-attachments/assets/2a11ca3d-1097-434f-8765-2760176c6207" />
 
 **Windows Graphics Settings**
 
