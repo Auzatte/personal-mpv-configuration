@@ -29,7 +29,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 # General Settings
 **AMD Radeon Software Settings**
 
-<img width="1451" alt="{C0B678A8-A870-47AB-99AB-94111D348700}" src="https://github.com/user-attachments/assets/c5bc91cb-ec4b-4c12-93d3-ea6926383c2f" />
+<img width="1443" alt="{154CC462-7ECD-469B-B08E-B121BF099E3C}" src="https://github.com/user-attachments/assets/eb4cc662-05fa-45d1-b4f1-d797fe60541c" />
 
 **SmoothVideoPlayer4 Settings**
 
@@ -37,11 +37,11 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 **Windows Graphics Settings**
 
-<img width="643" alt="{59D49E9C-938F-4B81-ACB1-15414B9305A6}" src="https://github.com/user-attachments/assets/1bfea6e3-11b8-44d6-ac73-e0adf0e1e082" />
+<img width="742" alt="{60193C7E-B678-4976-8E9B-99440DB4CA81}" src="https://github.com/user-attachments/assets/89527784-cd38-42e3-a6d9-43f94cdee89b" />
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
-Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=48;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2
+Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=0;SwapEffectUpgradeCache=0;GpuPreference=2
 
 mpv.exe: Disable Fullscreen Optimizations Checked & Override High DPI scaling behavior set to Application
 
