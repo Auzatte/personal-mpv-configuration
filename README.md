@@ -20,7 +20,7 @@ Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 100% AdobeRGB, 99% DCI-P3, 86% BT.2
 
 Display Mode: 4K 3840x2160@120Hz 10bit SDR | VRR+VSR Enabled
 
-Signal Mode: 4K 3840x2160@180Hz 10bit SDR | VRR+VSR Enabled
+Signal Mode: 1440p 2560x1440@180Hz 10bit SDR
 
 # General Information
 
