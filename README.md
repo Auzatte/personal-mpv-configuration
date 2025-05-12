@@ -16,7 +16,7 @@ Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/
 
 # Monitor Specifications
 
-Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 100% AdobeRGB, 99% DCI-P3, 86% BT.2020 | SDR Peak ~1037nits, HDR Peak ~1500nits| 1152 Local Dimming Zones set to "High" | Setting HDR "On"  instead of HDR "Auto" within the Monitor achieves Peak of ~1500nits while still running in SDR in the OS. Only downsides is it locks it to the default color temperature and the response time is locked to the default standard option. Upsides it does not affect color reproduction accuracy and in fact further improves upon the monitor's contrast ratio allowing for more vairance in the luminance peaks and luminance minimums.
+Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 100% AdobeRGB, 99% DCI-P3, 86% BT.2020 | SDR Peak ~1037nits, HDR Peak ~1500nits| 1152 Local Dimming Zones
 
 Display Mode: 4K 3840x2160@120Hz 10bit SDR | VRR+VSR Enabled
 
