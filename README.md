@@ -29,7 +29,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 # General Settings
 **AMD Radeon Software Settings**
 
-<img width="1443" alt="{154CC462-7ECD-469B-B08E-B121BF099E3C}" src="https://github.com/user-attachments/assets/eb4cc662-05fa-45d1-b4f1-d797fe60541c" />
+<img width="1450" alt="{2E77A093-6761-459D-A30B-762F64E3502A}" src="https://github.com/user-attachments/assets/a330f06a-8b9b-4487-b25b-cb9ea480b3bd" />
 
 **SmoothVideoPlayer4 Settings**
 
@@ -37,13 +37,11 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 **Windows Graphics Settings**
 
-<img width="742" alt="{60193C7E-B678-4976-8E9B-99440DB4CA81}" src="https://github.com/user-attachments/assets/89527784-cd38-42e3-a6d9-43f94cdee89b" />
+<img width="749" alt="{77596A03-CF70-4E91-ACCA-00ECC22DDA86}" src="https://github.com/user-attachments/assets/bae50770-a644-431c-b9ce-d85bfdbe7e2f" />
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
-Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=0;SwapEffectUpgradeCache=0;GpuPreference=2
-
-mpv.exe: Disable Fullscreen Optimizations Checked & Override High DPI scaling behavior set to Application
+Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=2097;AutoHDRStrength=100;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2
 
 # Note
 I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
