@@ -37,11 +37,11 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 **Windows Graphics Settings**
 
-<img width="749" alt="{77596A03-CF70-4E91-ACCA-00ECC22DDA86}" src="https://github.com/user-attachments/assets/bae50770-a644-431c-b9ce-d85bfdbe7e2f" />
+<img width="634" alt="{1CDE196F-0AD8-4FE8-B703-C1B7193C17CE}" src="https://github.com/user-attachments/assets/a884cd60-30a7-4c46-996b-1e6fb2c70bd7" />
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
-Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=2097;AutoHDRStrength=100;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2
+Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=48;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2
 
 # Note
 I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
