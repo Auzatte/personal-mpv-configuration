@@ -18,9 +18,9 @@ Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/
 
 Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 100% AdobeRGB, 99% DCI-P3, 86% BT.2020 | SDR Peak ~1037nits, HDR Peak ~1500nits| 1152 Local Dimming Zones
 
-Display Mode: 4K 3840x2160@120Hz 10bit SDR | VRR+VSR Enabled
+Display Mode: 4K 3840x2160@120Hz 10bit HDR | VRR+VSR Enabled
 
-Signal Mode: 1440p 2560x1440@180Hz 10bit SDR
+Signal Mode: 1440p 2560x1440@180Hz 10bit HDR
 
 # General Information
 
@@ -41,7 +41,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
-Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2
+Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=48;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2
 
 # Note
 I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
