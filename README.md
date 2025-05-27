@@ -18,9 +18,9 @@ Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/
 
 Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 97% AdobeRGB, 99% DCI-P3, 81.9% BT.2020 | SDR Peak ~1037nits, HDR Peak ~1500nits| 1152 Local Dimming Zones
 
-Display Mode: 4K 3840x2160@120Hz 10bit HDR | VRR+VSR Enabled
+Display Mode: 4K 3840x2160@120Hz 10bit SDR | VRR+VSR Enabled
 
-Signal Mode: 1440p 2560x1440@180Hz 10bit HDR
+Signal Mode: 1440p 2560x1440@180Hz 10bit SDR
 
 # General Information
 
