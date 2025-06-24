@@ -6,7 +6,7 @@ Credit for those files that were not created by me goes completely towards their
 
 Processor: AMD Ryzen 7 5800X3D 4.5GHz Boost with -30 Curve Optimizer applied All Core
 
-Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX (AQUA Liquid BIOS Flashed) | GFXClk Min @2935MHz GFXClk Max @3200MHz | MEMClk Fast Timings @2664MHz (@2650MHz due to -14MHz offset)
+Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX (AQUA Liquid BIOS Flashed) | GFXClk Min @2935MHz GFXClk Max @3300MHz | MEMClk Fast Timings @2664MHz (@2650MHz due to -14MHz offset)
 
 Motherboard: ASUS ROG STRIX B550-F (Heavily Tweaked BIOS Settings)
 
@@ -29,7 +29,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 # General Settings
 **AMD Radeon Software Settings**
 
-<img width="1450" alt="{2E77A093-6761-459D-A30B-762F64E3502A}" src="https://github.com/user-attachments/assets/a330f06a-8b9b-4487-b25b-cb9ea480b3bd" />
+<img width="1461" alt="{2B70FBC6-40C5-4994-B639-6C75E9AE2E5C}" src="https://github.com/user-attachments/assets/fdfc7f7b-2427-4879-ac51-c6f443420efe" />
 
 **SmoothVideoPlayer4 Settings**
 
@@ -39,11 +39,11 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 **Windows Graphics Settings**
 
-<img width="669" alt="{C7C9E226-CBE6-4506-BDD5-16FC4C05E167}" src="https://github.com/user-attachments/assets/17c9068b-9c0f-430c-8922-b34dcb2dba55" />
+<img width="661" alt="{DC77DBE5-5351-4220-979E-D013A4FE3098}" src="https://github.com/user-attachments/assets/9e06bb0f-75a7-4771-a115-2092b2d353e5" />
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
-Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=2097;AutoHDRStrength=100;SwapEffectUpgradeEnable=257;SwapEffectUpgradeCache=1;GpuPreference=2
+Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
 
 # Note
 I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
