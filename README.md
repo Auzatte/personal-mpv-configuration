@@ -6,7 +6,7 @@ Credit for those files that were not created by me goes completely towards their
 
 Processor: AMD Ryzen 7 5800X3D 4.5GHz Boost with -30 Curve Optimizer applied All Core
 
-Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX (AQUA Liquid BIOS Flashed) | GFXClk Min @2935MHz GFXClk Max @3300MHz | MEMClk Fast Timings @2664MHz (@2650MHz due to -14MHz offset)
+Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX | GFXClk Min @2615MHz GFXClk Max @3100MHz | MEMClk Fast Timings @2664MHz (@2650MHz due to -14MHz offset)
 
 Motherboard: ASUS ROG STRIX B550-F (Heavily Tweaked BIOS Settings)
 
@@ -17,10 +17,6 @@ Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/
 # Monitor Specifications
 
 Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 97% AdobeRGB, 99% DCI-P3, 81.9% BT.2020 | SDR Peak ~1037nits, HDR Peak ~1500nits| 1152 Local Dimming Zones
-
-Display Mode: 4K 3840x2160@120Hz 10bit SDR | VRR+VSR Enabled
-
-Signal Mode: 1440p 2560x1440@180Hz 10bit SDR
 
 # General Information
 
