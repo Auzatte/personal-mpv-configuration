@@ -31,8 +31,6 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 <img width="528" alt="{3A2E0A56-3509-4D3F-AB57-DB4814758C88}" src="https://github.com/user-attachments/assets/8c92bbd2-267f-43aa-a8bf-64c5869dad21" />
 
-<img width="528" alt="{175A0935-E3E3-4783-93B9-205D9E36CCE5}" src="https://github.com/user-attachments/assets/6a90a96e-a0e4-43c5-b633-e2b4491f5cdc" />
-
 **Windows Graphics Settings**
 
 <img width="661" alt="{DC77DBE5-5351-4220-979E-D013A4FE3098}" src="https://github.com/user-attachments/assets/9e06bb0f-75a7-4771-a115-2092b2d353e5" />
