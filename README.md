@@ -6,7 +6,7 @@ Credit for those files that were not created by me goes completely towards their
 
 Processor: AMD Ryzen 7 5800X3D 4.5GHz Boost with -30 Curve Optimizer applied All Core
 
-Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX | GFXClk Min @2615MHz GFXClk Max @3100MHz | MEMClk Fast Timings @2664MHz (@2650MHz due to -14MHz offset)
+Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX | GFXClk @3100MHz | UV @1125mV | MEMClk Fast Timings @2664MHz
 
 Motherboard: ASUS ROG STRIX B550-F (Heavily Tweaked BIOS Settings)
 
