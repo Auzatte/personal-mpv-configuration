@@ -29,7 +29,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 **SmoothVideoPlayer4 Settings**
 
-<img width="528" alt="{3A2E0A56-3509-4D3F-AB57-DB4814758C88}" src="https://github.com/user-attachments/assets/8c92bbd2-267f-43aa-a8bf-64c5869dad21" />
+<img width="528" height="549" alt="{2DE4FBC6-789F-457C-8E07-AF9F47B09FAF}" src="https://github.com/user-attachments/assets/0e1c6d21-f638-444e-bd73-6073de86c1c7" />
 
 **Windows Graphics Settings**
 
