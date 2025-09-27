@@ -16,7 +16,7 @@ Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/
 
 # Monitor Specifications
 
-Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 97% AdobeRGB, 99% DCI-P3, 81.9% BT.2020 | Peak Brightness 1037nits | 1152 Local Dimming Zones
+Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 97% AdobeRGB, 99% DCI-P3, 81.9% BT.2020 | Peak Brightness 1500nits | 1152 Local Dimming Zones
 
 # General Information
 
@@ -24,16 +24,13 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 # General Settings
 **AMD Radeon Software Settings**
-
-<img width="1461" alt="{2B70FBC6-40C5-4994-B639-6C75E9AE2E5C}" src="https://github.com/user-attachments/assets/fdfc7f7b-2427-4879-ac51-c6f443420efe" />
+<img width="1444" height="1003" alt="{A5B9F4A4-CE3E-43A6-A216-1C358EE3E83C}" src="https://github.com/user-attachments/assets/ea4bf12b-934e-4c53-8d20-8b96258e3bf1" />
 
 **SmoothVideoPlayer4 Settings**
-
-<img width="528" height="549" alt="{2DE4FBC6-789F-457C-8E07-AF9F47B09FAF}" src="https://github.com/user-attachments/assets/0e1c6d21-f638-444e-bd73-6073de86c1c7" />
+<img width="523" height="514" alt="{4DEFD027-6D2F-4F9B-8073-7D30A397D1DB}" src="https://github.com/user-attachments/assets/bacd1e04-6c17-47df-83f0-dc6aab7c34db" />
 
 **Windows Graphics Settings**
-
-<img width="661" alt="{DC77DBE5-5351-4220-979E-D013A4FE3098}" src="https://github.com/user-attachments/assets/9e06bb0f-75a7-4771-a115-2092b2d353e5" />
+<img width="626" height="210" alt="{9A1001C3-6890-4818-8398-050FF2BD0EE1}" src="https://github.com/user-attachments/assets/8d1ab730-6165-4ac0-bea7-117045989fd2" />
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
