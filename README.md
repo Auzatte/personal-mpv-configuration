@@ -24,12 +24,15 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 # General Settings
 **AMD Radeon Software Settings**
+
 <img width="1444" height="1003" alt="{A5B9F4A4-CE3E-43A6-A216-1C358EE3E83C}" src="https://github.com/user-attachments/assets/ea4bf12b-934e-4c53-8d20-8b96258e3bf1"/>
 
 **SmoothVideoPlayer4 Settings**
+
 <img width="523" height="514" alt="{4DEFD027-6D2F-4F9B-8073-7D30A397D1DB}" src="https://github.com/user-attachments/assets/bacd1e04-6c17-47df-83f0-dc6aab7c34db"/>
 
 **Windows Graphics Settings**
+
 <img width="626" height="210" alt="{9A1001C3-6890-4818-8398-050FF2BD0EE1}" src="https://github.com/user-attachments/assets/8d1ab730-6165-4ac0-bea7-117045989fd2"/>
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
