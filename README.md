@@ -16,7 +16,7 @@ Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/
 
 # Monitor Specifications
 
-Monitor: Xiaomi G Pro 27i 180Hz | 100% SRGB, 97% AdobeRGB, 99% DCI-P3, 81.9% BT.2020 | Peak Brightness 1500nits | 1152 Local Dimming Zones
+Monitor: LG UltraGear Tandem OLED 280Hz | 100% SRGB, 100% AdobeRGB, 99.5% DCI-P3, 86% BT.2020 | Peak Brightness 1500 nits | VESA DisplayHDR True Black 500
 
 # General Information
 
