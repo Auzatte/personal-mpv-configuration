@@ -27,7 +27,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 # General Settings
 **AMD Radeon Software Settings**
 
-<img width="1444" height="1003" alt="{A5B9F4A4-CE3E-43A6-A216-1C358EE3E83C}" src="https://github.com/user-attachments/assets/ea4bf12b-934e-4c53-8d20-8b96258e3bf1"/>
+<img width="1447" height="997" alt="{68C7128A-A535-4D23-8BCB-8394E97F0336}" src="https://github.com/user-attachments/assets/1d064355-3730-420d-81f8-1e7f3fd2afd0" />
 
 **SmoothVideoPlayer4 Settings**
 
@@ -39,7 +39,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
-Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
+Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=1;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
 
 # Note
 I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
