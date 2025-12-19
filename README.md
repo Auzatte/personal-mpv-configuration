@@ -31,7 +31,9 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 **SmoothVideoPlayer4 Settings**
 
-<img width="523" height="514" alt="{4DEFD027-6D2F-4F9B-8073-7D30A397D1DB}" src="https://github.com/user-attachments/assets/bacd1e04-6c17-47df-83f0-dc6aab7c34db"/>
+<img width="525" height="549" alt="{C07C16C2-969A-43CA-9B58-40D061BD56FD}" src="https://github.com/user-attachments/assets/c0068406-b18a-4bfa-9aa6-70113026fb8d" />
+
+Forcing the framerate to match the monitors exact refresh rate leads to less stutter and judder, as well as less framedrops when rendering fansubs.
 
 **Windows Graphics Settings**
 
