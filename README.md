@@ -44,6 +44,9 @@ Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPref
 Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
 
 # Note
+I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
+RIFE AI can and will either completely destroy the real original frames or make original frames completely vanish when used.
 
-Finally, I am always open to people's suggestions to further enhance the quality and performance of my mpv configuration file especially if they understand and know more about the subject than I currently do.
-Also, I welcome any mpv media player script recommendations as well if you think it'll enhance my general use of the player itself.
+At least with SVP4's interpolation it will keep all the original frames untouched by add its own calculated interpolated frames onto it.
+The most visible artifacting to be seen with my current setup usually appears on lower quality encodes rather than higher quality encodes.
+Usually in the form of either a "Halo Soap Opera Motion Effect" around characters in slower motion against a very detailed background or "Wavy Distorted Lines" around characters feet during motion on stairs.
