@@ -32,6 +32,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 **SmoothVideoPlayer4 Settings**
 Best Settings Utilizing SVP4 Interpolation Engine for 4K120fps playback
 <img width="527" height="549" alt="{F2C5C52A-E65B-473B-867A-57B24CCFC27E}" src="https://github.com/user-attachments/assets/391be77c-f4a7-4dd6-851b-ef8443470c70" />
+
 Forcing an exact multiplier leads to less CPU usage as well as power since it is easier to compute than forcing a fixed framerate.
 
 **Windows Graphics Settings**
