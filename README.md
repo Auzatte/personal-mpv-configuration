@@ -31,9 +31,9 @@ This configuration is being used with the latest git mpv build provided by Zhong
 
 **SmoothVideoPlayer4 Settings**
 Best Settings Utilizing SVP4 Interpolation Engine for 4K120fps playback
-<img width="525" height="549" alt="{C07C16C2-969A-43CA-9B58-40D061BD56FD}" src="https://github.com/user-attachments/assets/c0068406-b18a-4bfa-9aa6-70113026fb8d"/>
+<img width="527" height="549" alt="{F2C5C52A-E65B-473B-867A-57B24CCFC27E}" src="https://github.com/user-attachments/assets/391be77c-f4a7-4dd6-851b-ef8443470c70" />
 
-Forcing the framerate to match the monitors exact refresh rate leads to less stutter and judder, as well as less framedrops when rendering fansubs.
+Forcing an exact multiplier leads to less CPU usage as well as power since it is easier to compute than forcing a fixed framerate
 
 **Windows Graphics Settings**
 
