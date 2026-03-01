@@ -27,17 +27,18 @@ This configuration is being used with the latest git mpv build provided by Zhong
 # General Settings
 **AMD Radeon Software Settings**
 
-<img width="1446" height="1005" alt="{31FA4DE9-D772-4F3C-9D2B-5FBC6D3CEF25}" src="https://github.com/user-attachments/assets/6ceb782b-4c94-4e23-ba3d-e4e1593ef93b"/>
+<img width="1445" height="1006" alt="{EF15F81E-7C84-4633-A0F8-596CAAD29A9E}" src="https://github.com/user-attachments/assets/913af935-1dc1-496c-bce9-d45b7fbdf3d5" />
 
 **SmoothVideoPlayer4 Settings**
 Best Settings Utilizing SVP4 Interpolation Engine for 4K120fps playback
-<img width="528" height="548" alt="{D2B078B8-2135-4C9A-A542-47BB734DF7A6}" src="https://github.com/user-attachments/assets/ea8845dc-c6a6-4672-918c-2d5b2f2fb25c"/>
+
+<img width="528" height="548" alt="{74914FC9-3858-4611-86B6-AEAA9C4A348D}" src="https://github.com/user-attachments/assets/004a10ce-046e-4fb6-b08b-71c3646a5016" />
 
 Forcing an exact multiplier leads to less CPU usage as well as less power since it is easier to compute than forcing a fixed framerate.
 
 **Windows Graphics Settings**
 
-<img width="693" height="219" alt="{BB4FF0BB-E801-4D78-8F85-A97CB66A05EB}" src="https://github.com/user-attachments/assets/4f6583ba-68d2-45ed-8e58-c8570e17b412"/>
+<img width="694" height="218" alt="{6B6895C9-0B17-4E9F-860C-39C8B8176450}" src="https://github.com/user-attachments/assets/1eb855f9-f163-4989-b606-4f7ef8809726" />
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
